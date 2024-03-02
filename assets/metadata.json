@@ -1,0 +1,12 @@
+{
+    "name": "MCH",
+    "symbol": "MCH",
+    "description": "My Crypto Hustle Token",
+    "image": "LINKtoImage",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "My crypto Huslte"
+      }
+    ]
+  }
