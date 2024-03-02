@@ -2,7 +2,7 @@
     "name": "MCH",
     "symbol": "MCH",
     "description": "My Crypto Hustle Token",
-    "image": "LINKtoImage",
+    "image": "https://raw.githubusercontent.com/mycryptohustle/mch/main/assets/mch.png",
     "attributes": [
       {
         "trait_type": "Item",
